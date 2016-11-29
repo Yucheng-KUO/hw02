@@ -1,6 +1,23 @@
-.rect{
-    background: gold;
-    height: 150px;
-    width: 150px;
-    border-radius: 50%;
+.inner{
+   background: navy;
+}
+.box{
+  width:60px;
+  height:60px; 
+    border-radius:50%;
+    text-align: center;
+    font-size: 30px;
+    font-family: arial;
+}
+.bg1{
+ background: orangered; 
+}
+.bg2{
+ background: limegreen; 
+}
+.bg3{
+ background: dodgerblue; 
+}
+.bg4{
+ background: gold; 
 }
