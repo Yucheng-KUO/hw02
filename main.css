@@ -1,0 +1,41 @@
+.inner{
+   background: #ffff75;
+}
+.box{
+  width:60px;
+  height:60px; 
+    border-radius:50%;
+    text-align: center;
+    font-size: 35px;
+    font-family: arial;
+    font-weight:700;
+    
+}
+.box1{
+  width:60px;
+  height:60px; 
+    border-radius:50%;
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+/*    font-weight:700;*/
+}
+.bg2{
+    font-size: 17px;
+}
+.bg3{
+ background: red;
+    color:white;
+}
+.bg4{
+ background: #f5a20b; 
+}
+.bg5{
+ text-align:center;
+ line-height: 60px;
+        font-weight:700;
+}
+.bg6{
+    color: red;
+    font-weight:700;
+}
