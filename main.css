@@ -1,23 +1,41 @@
 .inner{
-   background: navy;
+   background: #ffff75;
 }
 .box{
   width:60px;
   height:60px; 
     border-radius:50%;
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
     font-family: arial;
+    font-weight:700;
+    
 }
-.bg1{
- background: orangered; 
+.box1{
+  width:60px;
+  height:60px; 
+    border-radius:50%;
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+/*    font-weight:700;*/
 }
 .bg2{
- background: limegreen; 
+    font-size: 17px;
 }
 .bg3{
- background: dodgerblue; 
+ background: red;
+    color:white;
 }
 .bg4{
- background: gold; 
+ background: #f5a20b; 
+}
+.bg5{
+ text-align:center;
+ line-height: 60px;
+        font-weight:700;
+}
+.bg6{
+    color: red;
+    font-weight:700;
 }
